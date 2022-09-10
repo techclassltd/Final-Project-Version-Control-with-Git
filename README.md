@@ -114,12 +114,20 @@ If you're stuck, go back again to the previous lessons from the TechClass platfo
 2. Navigate to _Lists/Students_ diirectories then make a directory, define it according to your student ID/number and inside of the created directory create a _cities.txt_ file. You can optionally add a description or a list to this file or leave the file empty.
 
 3. Stage and commit your changes. 
+ 
+4. View the status and log.    
 
-4. Before pushing it back to the [upstream repository](https://github.com/farhad85/MasteringGit) to make a pull request, **ensure that the local master branch is synchronized and has all of the updates from the upstream** using checkout, fetch, and pull. Then checkout to your source branch and `merge` or `rebase` from the updated local master. Ensure that your local master and source branch is up-to-date with the latest version from the remote codebase(origin) to prevent staled pull requests and to merge your changes to master.
+4. Before pushing it back to the [upstream repository](https://github.com/farhad85/MasteringGit), **ensure that the local master branch is synchronized and has all of the updates from the upstream** using pull. Then checkout to your source branch and `merge` from the updated local master.
 
-5. Login to your **Github account** and click _Compare & pull request_ button of the project remote repository then click _Create pull request_ to open a new pull request.
+5. Ignore some types of files.
 
-6. Your pull request will be reviewed and eventually merge to master.
+6. Push the changes to GitHub.
+
+7. Edit README.md.
+  
+8. Undo the modification. 
+   
+9. Tag the last commit.
 
 </div>
 
