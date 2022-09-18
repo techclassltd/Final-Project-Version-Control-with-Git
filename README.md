@@ -2,12 +2,12 @@
 
 <div style="text-align:center">
 
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/farhad85/MasteringGit)
-[![GitHub last commit](https://img.shields.io/github/last-commit/farhad85/MasteringGit)](https://github.com/farhad85/MasteringGit)
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/farhad85/MasteringGit)](https://github.com/farhad85/MasteringGit/pulls)
-[![GitHub forks](https://img.shields.io/github/forks/farhad85/MasteringGit)](https://github.com/farhad85/MasteringGit/network)
-[![GitHub contributors](https://img.shields.io/github/contributors-anon/farhad85/MasteringGit?color=orange&label=contributors)](https://github.com/farhad85/MasteringGit)
-[![GitHub stars](https://img.shields.io/github/stars/farhad85/MasteringGit)](https://github.com/farhad85/MasteringGit/stargazers)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/techclassltd/MasteringGit)
+[![GitHub last commit](https://img.shields.io/github/last-commit/techclassltd/MasteringGit)](https://github.com/techclassltd/MasteringGit)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/techclassltd/MasteringGit)](https://github.com/techclassltd/MasteringGit/pulls)
+[![GitHub forks](https://img.shields.io/github/forks/techclassltd/MasteringGit)](https://github.com/techclassltd/MasteringGit/network)
+[![GitHub contributors](https://img.shields.io/github/contributors-anon/techclassltd/MasteringGit?color=orange&label=contributors)](https://github.com/techclassltd/MasteringGit)
+[![GitHub stars](https://img.shields.io/github/stars/techclassltd/MasteringGit)](https://github.com/techclassltd/MasteringGit/stargazers)
 
 </div>
 
@@ -29,11 +29,11 @@
 
 Welcome to the concluding portion on introducing the concepts of working with version control using Git. The purpose of this exercise is to apply the common usage and workaround of version control in creating collaborative material using Git as a version control system. Where the students are assigned to get a local copy of the project from a remote repository on Github, creating a branch, updating a particular file, committing, mergin branches, pushing and undoing.
 
-MasteringGit project is based on the content from the subject [Mastering Version Control with Git TT00CR85](https://hakija.oma.metropolia.fi/#1882) delivered by [TechClass](https://techclass.com/academy/courses/1) and offered by the [Metropolia Open University of Applied Sciences](https://hakija.oma.metropolia.fi/#1882) and [Amkoodari project (2019-2021)](https://amkoodari.fi/en).
+MasteringGit project is based on the content from the subject [Mastering Version Control with Git TT00CR85](https://hakija.oma.metropolia.fi/#1882) delivered by [TechClass](https://techclass.com/collections/data-science-courses) and offered by the [Metropolia Open University of Applied Sciences](https://hakija.oma.metropolia.fi/#1882) and [Amkoodari project (2019-2021)](https://amkoodari.fi/en).
 
 ### 🔑 Requisites <a name="requisites"></a>
 
-- Enrolled students to the [course](https://techclass.com/academy/courses/1) who already done with all of the tasks except this one.
+- Enrolled students to the [course](https://techclass.com/collections/data-science-courses) who already done with all of the tasks except this one.
 
 - [Install Git](http://git-scm.com/downloads) and basic Git command know-how.
 
@@ -48,7 +48,6 @@ MasteringGit project is based on the content from the subject [Mastering Version
 
 - Familiarity in using the command prompt or terminal.
 
-- [Github](https://github.com/) user account.
 
 ### ⛓️ Limitations <a name="limitations"></a>
 
@@ -63,9 +62,9 @@ If you're stuck, go back again to the previous lessons from the TechClass platfo
 
 ### ⛑️ Reminders: <a name="reminders"></a>
 
-* Read thoroughly the directions from the **final project section** of the [Version Control with Git](https://techclass.com/academy/courses/1) course by signing in to the [TechClass platform](https://techclass.com/).
+* Read thoroughly the directions from the **final project section** of the [Version Control with Git](https://techclass.com/collections/data-science-courses) course by signing in to the [TechClass platform](https://techclass.com/).
 
-* Send a message to the course instructor to add you as a contributor to the project and append your **Github username** to your message. You can send your message through the messaging app of [Version Control with Git course](https://techclass.com/academy/courses/1) by logging in to [TechClass](https://techclass.com/). It will take a while before you received the invitation through Github, so check your email inbox regularly and accept the invites if you received them. 
+* Send a message to the course instructor to add you as a contributor to the project and append your **Github username** to your message. You can send your message through the messaging app of [Version Control with Git course](https://techclass.com/collections/data-science-courses) by logging in to [TechClass](https://techclass.com/). 
 
 * Remember to take a screenshot of all the required steps that you implemented locally to be attached later on to the platform.
 
@@ -73,7 +72,7 @@ If you're stuck, go back again to the previous lessons from the TechClass platfo
 
 1. Configure your Git username and email globally or locally.
 
-2. Clone the [upstream repository](https://github.com/farhad85/MasteringGit) and define your local project folder as "MasteringGit-YourStudentID".
+2. Clone the [upstream repository](https://github.com/techclassltd/MasteringGit) and define your local project folder as "MasteringGit-YourStudentID".
 
 3. `cd` to your project folder and create a local `branch`, name it based on your **student ID**.
 
@@ -117,17 +116,19 @@ If you're stuck, go back again to the previous lessons from the TechClass platfo
  
 4. View the status and log.    
 
-4. Before pushing it back to the [upstream repository](https://github.com/farhad85/MasteringGit), **ensure that the local master branch is synchronized and has all of the updates from the upstream** using pull. Then checkout to your source branch and `merge` from the updated local master.
+5. Before pushing it back to the [upstream repository](https://github.com/techclassltd/MasteringGit), **ensure that the local master branch is synchronized and has all of the updates from the upstream** using pull. Then checkout to your source branch and `merge` from the updated local master.
 
-5. Ignore some types of files.
+6. Ignore some types of files.
 
-6. Push the changes to GitHub.
+7. Push the changes to GitHub.
 
-7. Edit README.md.
-  
-8. Undo the modification. 
+8. Edit answers.txt.
    
-9. Tag the last commit.
+9. Compare the changes.   
+  
+10. Undo the modification. 
+   
+11. Tag the last commit.
 
 </div>
 
@@ -163,9 +164,9 @@ If you're stuck, go back again to the previous lessons from the TechClass platfo
 
 ## ✍️ Author <a name="author"></a>
 
-- [@farhad85](https://github.com/farhad85) - Idea, initial work & course instructor
+- [@techclassltd](https://github.com/techclassltd) - Idea, initial work & course instructor
 
-See also the list of [contributors](https://github.com/farhad85/MasteringGit/graphs/contributors) to this project.
+See also the list of [contributors](https://github.com/techclassltd/MasteringGit/graphs/contributors) to this project.
 
 
 ## 🎗️ Show your support <a name="support"></a>
