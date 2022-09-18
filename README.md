@@ -27,7 +27,7 @@
 
 ## 🔰 About <a name="about"></a>
 
-Welcome to the concluding portion on introducing the concepts of working with version control using Git. The purpose of this exercise is to apply the common usage and workaround of version control in creating collaborative material using Git as a version control system. Where the students are assigned to get a local copy of the project from a remote repository on Github, creating a branch, updating a particular file, committing, mergin branches, pushing and undoing.
+Welcome to the concluding portion on introducing the concepts of working with version control using Git. This is the final project of [TechClass Version Control with Git Online Course](https://techclass.com/products/version-control-with-git-course). The purpose of this project is to apply the common usage and workaround of version control in creating collaborative material using Git as a version control system, where the students are assigned to get a local copy of the project from a remote repository on Github, creating a branch, updating a particular file, committing, mergin branches, pushing and undoing.
 
 
 ### 🔑 Requisites <a name="requisites"></a>
