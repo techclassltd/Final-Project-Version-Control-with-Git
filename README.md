@@ -41,7 +41,7 @@ MasteringGit project is based on the content from the subject [Mastering Version
   # verify your installation
   $ git --version
   # e.g. output
-  git version 2.25.1
+  git version 2.37.3
   ```
 
 - Preferred text editor/IDE. There are many to choose from.
