@@ -29,11 +29,11 @@
 
 Welcome to the concluding portion on introducing the concepts of working with version control using Git. The purpose of this exercise is to apply the common usage and workaround of version control in creating collaborative material using Git as a version control system. Where the students are assigned to get a local copy of the project from a remote repository on Github, creating a branch, updating a particular file, committing, mergin branches, pushing and undoing.
 
-MasteringGit project is based on the content from the subject [Mastering Version Control with Git TT00CR85](https://hakija.oma.metropolia.fi/#1882) delivered by [TechClass](https://techclass.com/collections/data-science-courses) and offered by the [Metropolia Open University of Applied Sciences](https://hakija.oma.metropolia.fi/#1882) and [Amkoodari project (2019-2021)](https://amkoodari.fi/en).
+MasteringGit project is based on the content from the subject [Mastering Version Control with Git TT00CR85](https://hakija.oma.metropolia.fi/#1882) delivered by [TechClass](https://techclass.com/products/version-control-with-git-course) and offered by the [Metropolia Open University of Applied Sciences](https://hakija.oma.metropolia.fi/#1882) and [Amkoodari project (2019-2021)](https://amkoodari.fi/en).
 
 ### 🔑 Requisites <a name="requisites"></a>
 
-- Enrolled students to the [course](https://techclass.com/collections/data-science-courses) who already done with all of the tasks except this one.
+- Enrolled students to the [course](https://techclass.com/products/version-control-with-git-course) who already done with all of the tasks except this one.
 
 - [Install Git](http://git-scm.com/downloads) and basic Git command know-how.
 
@@ -62,7 +62,7 @@ If you're stuck, go back again to the previous lessons from the TechClass platfo
 
 ### ⛑️ Reminders: <a name="reminders"></a>
 
-* Read thoroughly the directions from the **final project section** of the [Version Control with Git](https://techclass.com/collections/data-science-courses) course by signing in to the [TechClass platform](https://techclass.com/).
+* Read thoroughly the directions from the **final project section** of the [Version Control with Git](https://techclass.com/products/version-control-with-git-course) course by signing in to the [TechClass platform](https://techclass.com/).
 
 * Send a message to the course instructor to add you as a contributor to the project and append your **Github username** to your message. You can send your message through the messaging app of [Version Control with Git course](https://techclass.com/collections/data-science-courses) by logging in to [TechClass](https://techclass.com/). 
 
