@@ -1,4 +1,4 @@
-﻿<h1 align="center">MasteringGit</h1>
+﻿<h1 align="center">Final Project of TechClass Version Control with Git Course</h1>
 
 <div style="text-align:center">
 
